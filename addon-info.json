@@ -1,0 +1,9 @@
+{
+    "name" : "tlib",
+    "version" : "dev",
+    "author" : "Rigel Di Scala <izedr@zedr.com>",
+    "maintainer" : "Rigel Di Scala <izedr@zedr.com>",
+    "repository" : {"type": "git", "url": "git@github.com:giacomos/zope-snipmate-bundle.git"},
+    "dependencies" : {},
+    "description" : "A library of vim snippets for Zope/Plone based on sniptMate"
+}
